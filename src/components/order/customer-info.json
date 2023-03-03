@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_order_customer_infos",
+  "info": {
+    "displayName": "customerInfo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "required": true
+    },
+    "question": {
+      "type": "richtext"
+    },
+    "company": {
+      "type": "string"
+    }
+  }
+}

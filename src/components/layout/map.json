@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_layout_maps",
+  "info": {
+    "displayName": "Map"
+  },
+  "options": {},
+  "attributes": {
+    "ltd": {
+      "type": "float"
+    },
+    "lng": {
+      "type": "float"
+    }
+  }
+}
